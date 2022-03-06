@@ -7,3 +7,5 @@
 
 Vídeo no youtube com o passo-a-passo deste projeto: https://www.youtube.com/watch?v=u0HuCKApznc
 
+![Snake animation](https://github.com/feltex/feltex/blob/main/feltex-github-user-contribution.svg)
+
